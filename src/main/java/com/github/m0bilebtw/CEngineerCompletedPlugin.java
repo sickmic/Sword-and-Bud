@@ -33,9 +33,9 @@ import java.util.regex.Pattern;
 
 @Slf4j
 @PluginDescriptor(
-	name = "C Engineer: Completed",
-	description = "C Engineer announces when you complete an achievement",
-	tags = {"c engineer", "stats", "levels", "quests", "diary", "announce"}
+	name = "Sword & Bud Soundpack",
+	description = "Silly Sword & Bud sounds",
+	tags = {"weird", "ridiculous", "EuhNathan", "tisdermeedakeuh", "rayman", "weeeeeh"}
 )
 
 public class CEngineerCompletedPlugin extends Plugin
